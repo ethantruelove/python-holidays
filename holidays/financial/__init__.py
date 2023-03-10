@@ -11,3 +11,4 @@
 
 from .european_central_bank import ECB, TAR, EuropeanCentralBank
 from .ny_stock_exchange import NYSE, XNYS, NewYorkStockExchange
+from .us_government_securities import USGS, UnitedStatesGovernmentSecurities
